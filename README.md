@@ -1,5 +1,4 @@
 # Progetto-Sistemi-Aperti-Distribuiti
-Compravendita giochi da tavolo
 
 L'obiettivo di questo progetto è vendere dei giochi da tavolo:
 Il fruitore può prenotarlo da un'apposita lista, oppure può scegliere di riservare un tavolo direttamente in una delle sedi disponibili 

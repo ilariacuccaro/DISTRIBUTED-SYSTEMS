@@ -1,7 +1,5 @@
-# Progetto-Sistemi-Aperti-Distribuiti
+# DISTRIBUTED SYSTEMS
 
-L'obiettivo di questo progetto è vendere dei giochi da tavolo:
-Il fruitore può prenotarlo da un'apposita lista, oppure può scegliere di riservare un tavolo direttamente in una delle sedi disponibili 
-e venire a provarlo in negozio.
-L'erogatore del servizio può visualizzare i giochi presenti in magazzino, quelli pronotati e i tavoli riservati; 
-se lo desidera può annullare le prenotazioni dei clienti. 
+The goal of this project is to sell board games:
+- The user can book them from a special list, or they can choose to reserve a table directly in the store;
+- The service provider can view the games in stock, booked ones, and the reserved tables. 
